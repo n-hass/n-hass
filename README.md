@@ -3,9 +3,7 @@
 
 Most of my time is spent working on closed-source projects which can't be seen here.
 
-I love low-level system stuff.
-
-Please don't ask me to make a front-end. I will do it in assembly and it won't be portable.
+I love low-level system stuff. Please don't ask me to make a front-end.
 
 <!---
 n-hass/n-hass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
