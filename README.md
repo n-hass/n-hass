@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nick
 - 🌱 I did my Bachelor of Computer Science (Advanced) at the University of Adelaide
-- 👔 I'm a Software / Systems Engineer in Adelaide
+- 👔 I'm a Software / Systems Engineer in Adelaide, Australia
 
-Most of my time is spent working on closed-source projects which can't be seen here.
+I try to contribute to open-source where I can.
 
 <!---
 n-hass/n-hass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
